@@ -1,6 +1,6 @@
 
 '''########################################################################################
-Purpose:
+Purpose: Illustration of stegonography.
 
 This script takes a plain text file and encodes it within a given image by replacing
 low value elements (i.e. least significant bits) of an RGBA image with 0/1 bits of a
